@@ -11,5 +11,5 @@ $ git clone https://github.com/dapunt007/kmbf
 # RUN
 ```
 $ cd kmbf
-$ python2 kmbf
+$ python2 kmbf.py
 ```
