@@ -6,10 +6,10 @@ $ apt install python python2 git -y
 ```
 # DOWNLOAD
 ```
-$ git clone https://github.com/BOY-H4MZ4H/obfuscated
+$ git clone https://github.com/dapunt007/kmbf
 ```
 # RUN
 ```
-$ cd obfucated
-$ python2 obfucated.py
+$ cd kmbf
+$ python2 kmbf
 ```
